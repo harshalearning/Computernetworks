@@ -11,7 +11,7 @@ Binary Basics:
      Human understanding language - decimal - base 10 (power of 10)
      Machine understanding language - Binary - base 2 (power of 2) - represented by bits - 1 byte = 8 bits. 
 
-    ![Alt text](image.png)
+![Alt text](image.png)
 
 
 IPv4: 
@@ -47,7 +47,7 @@ IPv4 classes:
     
     Class C network. We have three network IDs (2^24-3 = 2^21) and one host ID network (2^8-2 = 254) present for this class C. 
 
-    ![Alt text](image-2.png)
+![Alt text](image-2.png)
 
     For every host IP we have 2 bits going for (Network IP for that class and Broadcast IP) 
     No-of hosts/Network = (2^hostbits) - 2.
@@ -55,7 +55,7 @@ IPv4 classes:
 
     Examples of class A network - the large one fall into this category. AT&T, IBM etc
 
-    ![Alt text](image-3.png)
+![Alt text](image-3.png)
 
     Note: The addresses of 127.0.0.0 is saved for loop and not part of any of the classes.
 
@@ -72,7 +72,7 @@ PUBLIC IP vs PRIVATE IP:
 
 IPv4 vs IPv6:
 
-    ![Alt text](image-4.png)
+![Alt text](image-4.png)
 
     We have been sustaining with IPv4 with different concepts comming over time into networking. Now a days many are adopting to IPv6.
 
