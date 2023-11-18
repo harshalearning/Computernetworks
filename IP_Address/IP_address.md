@@ -39,7 +39,7 @@ IPv4 classes:
     4) class D - Multicast - not used much
     5) class E - Experimental - not used much.
 
-    ![Alt text](image-1.png)
+![Alt text](image-1.png)
 
     The above image displays the list of classes and the reserved bits for the specific classes, as mentioned in the image of an example for the class A a network has 1 network ID octet and 3 host ID octet we have more number of Host ID's and less number of Network ID's. 
     
@@ -76,7 +76,7 @@ IPv4 vs IPv6:
 
     We have been sustaining with IPv4 with different concepts comming over time into networking. Now a days many are adopting to IPv6.
 
-    
+
 
     
 
